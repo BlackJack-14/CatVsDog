@@ -92,12 +92,6 @@ Training and validation accuracy and loss are visualized during training to moni
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Acknowledgments
 
 - [Kaggle](https://www.kaggle.com) for the dataset
