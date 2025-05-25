@@ -77,7 +77,7 @@ Once the app launches in your browser:
 
 - **Loss Function:** Binary Crossentropy
 - **Optimizer:** Adam
-- **Accuracy Achieved:** ~90% (varies based on training duration and batch size)
+- **Accuracy Achieved:** 81.42% (varies based on training duration and batch size)
 
 Training and validation accuracy and loss are visualized during training to monitor overfitting and model performance.
 
